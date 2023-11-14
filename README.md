@@ -1,8 +1,10 @@
-# site-html-css
-Criação de um site com html e css
+<html>
+<body>
+<h1>Site com HTNL e CSS</h1> 
+<p>Criação de um site com html e css</p>
 
 
-# Atividade 01
+<h2>Atividade 01</h2>
 
 Desenvolva um site para uma empresa, com todas informações da empresa. A página deve possuir, no mínimo, os seguintes requisitos (ou reutilize uma já desenvolvida que possua no mínimo 4 páginas html):
 - Página inicial: crie uma página inicial que apresente uma breve introdução ao site e tenha um menu de navegação com links para outras páginas do site.
@@ -20,20 +22,22 @@ Busque uma interface agradável aos olhos do usuário.
 
 Na elaboração das páginas, utilize as tags que possuem ênfase na melhora do SEO do site proposto.
 
-## Home
+<h3>Home</h3> 
 
-![[home.png]]
+<img src="img/print/home.png">
 
-## Sobre
+<h3>Sobre </h3> 
 
-![[sobre.png]]
+<img src="img/print/sobre.png">
 
-## Contato
+<h3> Contato </h3> 
 
-![[contato.png]]
+<img src="img/print/contato.png">
 
-## Galeria
+<h3> Galeria</h3> 
 
-![[galeria.png]]
+<img src="img/print/galeria.png">
 
+</body>
+</html>
 
