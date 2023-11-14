@@ -93,7 +93,7 @@ nav a:hover{
 .banner
 {
     flex: 1;
-    background-image: url("/img/banner.jpg");
+    background-image: url("img/banner.jpg");
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -147,7 +147,7 @@ h2
 .conteudo-destaque-img
 {
     flex: 1;  
-    background-image: url("/img/natal.jpg");
+    background-image: url("img/natal.jpg");
     background-size: cover;
     margin: 20px;
     width: 100%;

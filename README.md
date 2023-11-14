@@ -19,3 +19,21 @@ Além disso, faça aplicação de estilos em elementos utilizando ID. Utilize di
 Busque uma interface agradável aos olhos do usuário.
 
 Na elaboração das páginas, utilize as tags que possuem ênfase na melhora do SEO do site proposto.
+
+## Home
+
+![[home.png]]
+
+## Sobre
+
+![[sobre.png]]
+
+## Contato
+
+![[contato.png]]
+
+## Galeria
+
+![[galeria.png]]
+
+
